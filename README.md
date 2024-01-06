@@ -6,5 +6,5 @@ This project implements a POS Tagging system using various natural language proc
 SpaCy is an open-source software library for advanced Natural Language Processing (NLP), written in Python and Cython. It's designed to help you do real work — to build real products, or gather real insights. The library respects your time, and tries to avoid wasting it. It's easy to install, and its API is simple and productive. It offers built-in support for visualizing and debugging, and several high-level features for doing common NLP tasks, such as part-of-speech tagging, named entity recognition, and dependency parsing.
 
 ## Installation
-To install SpaCy, you can use pip:
+To install SpaCy, you can use pip:<br>
 pip install spacy
