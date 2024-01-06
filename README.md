@@ -7,4 +7,6 @@ SpaCy is an open-source software library for advanced Natural Language Processin
 
 ## Installation
 To install SpaCy, you can use pip:<br>
+'''
 pip install spacy
+'''
