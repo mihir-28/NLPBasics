@@ -6,7 +6,8 @@ def pos_tagging(text):
     tagged = [(token.text, token.pos_) for token in doc]
     return tagged
 
-# Example usage
+# Example Usage
 text = "I am learning Python programming."
 tagged_text = pos_tagging(text)
-print(tagged_text)
+print("Input: ", text)
+print("Tagged Text:\n", tagged_text)
