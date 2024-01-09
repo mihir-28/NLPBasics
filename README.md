@@ -2,6 +2,9 @@
 
 Beginner Nautural Language Processing Tutorials.
 <br>
-1. POSTagging
-2. RegEx
-3. Tokenization
+1. ![RegEx]()
+2. ![Tokenization]()
+3. ![Language Processing Pipeline]()
+4. ![Stemming and Lemmatization]()
+5. ![POSTagging]()
+6. ![Named Entity Recognition]()
