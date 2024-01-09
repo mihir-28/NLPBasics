@@ -5,6 +5,6 @@ Beginner Nautural Language Processing Tutorials.
 1. [RegEx](./RegEx)
 2. [Tokenization](./Tokenization)
 3. [Language Processing Pipeline](./LangProcessingPipeline)
-4. [Stemming and Lemmatization](./StemmingandLematization)
+4. [Stemming and Lemmatization](./StemmingandLemmatization)
 5. [POSTagging](./POSTagging)
 6. [Named Entity Recognition]()
