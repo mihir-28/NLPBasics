@@ -1,0 +1,5 @@
+# Stemming
+Stemming is a technique used in Natural Language Processing (NLP) to reduce words to their base or root form by removing the endings of words. This process helps to consolidate different variations of the same word into a common base form, making it easier for machines to understand the text. However, stemming can sometimes be overly simplistic and aggressive, leading to incorrect results where the stemmed word loses its actual meaning.
+
+# Lemmatization
+Lemmatization, on the other hand, is a more sophisticated process that also reduces words to their base or root form, known as the lemma. Unlike stemming, lemmatization takes into account the morphological analysis of the words, considering the context and part of speech in which the word is used. This allows it to handle complex cases better and generally provides more accurate results, but at the cost of being more computationally intensive.
